@@ -8,10 +8,10 @@ MM.      ,MP   M  YM.P'  MM    MM    MM  VMA      MM  YM.   MM.      ,MP   M   `
   `"bmmd"'   .JML. `'  .JMML..JMML..JMML.   MMb..JMML. .JMM.  `"bmmd"'   .JML.    YM  
   /   /              /   /                              \   \                 \   \
  +---+              +---+                                +---+                 +---+
- |   | Python       |   | BigBlueButton          Ansible |   |      Monitoring |   |
+ |   | Rust         |   | Python & Django     Monitoring |   |   BigBlueButton |   |
  |   |-------       |   |--------------        ----------|   |     ------------|   |
  |   |              |   |                                |   |                 |   |
- |   | Django       |   | BBB Streaming             FOSS |   |     Pen & Paper |   |
+ |   | Go           |   | Pentesting                FOSS |   |   BBB Streaming |   |
  |   |-------       |   |--------------        ----------|   |     ------------|   |
  +---+              +---+                                +---+                 +---+
 
